@@ -1,0 +1,60 @@
+%!Adobe-FontList 1.14
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxygen-Bold
+FamilyName:Oxygen
+StyleName:Bold
+FullName:Oxygen Bold
+MenuName:Oxygen
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:\\taqui\conselheiros\Design Gráfico\ESUD\Anais\HTML\Font\Oxygen-Bold.ttf
+DataFormat:sfntData
+FileLength:48812
+FileModTime:1390968760
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxygen-Light
+FamilyName:Oxygen
+StyleName:Light
+FullName:Oxygen Light
+MenuName:Oxygen
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\taqui\conselheiros\Design Gráfico\ESUD\Anais\HTML\Font\Oxygen-Light.ttf
+DataFormat:sfntData
+FileLength:43852
+FileModTime:1390968760
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oxygen-Regular
+FamilyName:Oxygen
+StyleName:Regular
+FullName:Oxygen Regular
+MenuName:Oxygen
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:\\taqui\conselheiros\Design Gráfico\ESUD\Anais\HTML\Font\Oxygen-Regular.ttf
+DataFormat:sfntData
+FileLength:48092
+FileModTime:1390968760
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

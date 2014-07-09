@@ -1,0 +1,73 @@
+
+.menu-panel {
+	background: #3B3C3B;
+	width: 245px;
+	height: 100%;
+	position: fixed;
+	z-index: 1000;
+	top: 0;
+	left: 0;
+	text-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+.js .menu-panel {
+	position: absolute;
+	left: -240px;
+}
+
+.menu-panel h3 {
+	font-size: 0.7em;
+	padding: 20px;
+	font-weight: 400;
+	color: #C0BCBE;
+	box-shadow: inset 0 -1px 0 rgba(0,0,0,0.05);
+	margin-left: 14px;
+} 
+
+.menu-toc {
+	list-style: none;
+	float: left;
+	margin-left: 37px;
+}
+
+.uma_linha{
+	height: 33px;
+}
+
+.duas_linha{
+	height: 39px;
+	margin-bottom: 14px;
+}
+
+.menu-toc li a {
+	display: block;
+	color: #C0BCBE;
+	font-size: 0.6em;
+	cursor: pointer;
+	border-bottom: 1px solid #5B5B5B;
+	text-decoration:none;
+	padding: 7px;
+	line-height: 20px;
+
+}
+
+.uma_linha a{
+	margin: 0 0 -43px 0;
+}
+
+.duas_linha a{
+	margin: 10px 0 -69px 0;
+}
+
+
+.side_hover_1{
+	width: 147px;	
+	height: 21px;
+	margin: 15px 0 0 -184px;
+}
+
+.side_hover_2{
+	width: 147px;	
+	height: 39px;
+	margin: 22px 0 0 -184px;
+}

@@ -1,0 +1,9 @@
+{
+	'artigos':
+		[
+			{'autor': 'Clodoaldo', 'titulo': 'js and json', 'arquivo': 'clodo.pdf', 'pagina': '12'},
+			{'autor': 'Ricardinho', 'titulo': 'json na marra', 'arquivo': 'rick.pdf', 'pagina': '343'},
+			{'autor': 'Pedrinho', 'titulo': 'explorando json', 'arquivo': 'pedr.pdf', 'pagina': '54'},
+			{'autor': 'Luizinho', 'titulo': 'Introducao ao json', 'arquivo': 'luiz.pdf', 'pagina': '655'}
+		]
+}
